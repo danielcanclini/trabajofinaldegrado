@@ -1,0 +1,10 @@
+{
+	"Modality": "US",
+	"ManufacturersModelName": "Turbo",
+	"StationName": "SonoSite",
+	"SoftwareVersions": "51.80.111.016",
+	"ImageType": ["ORIGINAL", "PRIMARY", "NEONATAL HEAD", "0001"],
+	"SeriesNumber": 1,
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20220720"
+}
