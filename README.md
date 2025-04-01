@@ -1,10 +1,13 @@
 # Comparación de Métodos de Segmentación Automática con Imágenes de Resonancia Magnética de Bajo Campo
 Repositorio del Trabajo final de grade "Comparación de Métodos de Segmentación Automática con Imágenes de Resonancia Magnética de Bajo Campo" para la Univerdad Comunera
 
+Estructura de repositorio:
+ - Codigo : Aca esta el codigo de fuente de los metodos utilizados
+ - Experimento : Los archivos procesados que contienen las imagenes de resonancia magnetica de bajo campo de los pacientes del trabajo en formato .nii.gz
+ - Originales : Los archivos originales sin procesar de las imagenes cerebrales de resonancia magnetica de bajo campo en formato .nii.gz
+
 
 Se elabora esta guia de instlacion de los metodos utilizados para reproducir los resultados documentados en el trabajo.
-
-
 # Ejecutar Bet
 
 1. Descargar el script  de instalacion de FSL 
