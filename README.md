@@ -1,5 +1,5 @@
 # Comparación de Métodos de Segmentación Automática con Imágenes de Resonancia Magnética de Bajo Campo
-Repositorio del Trabajo final de grade "Comparación de Métodos de Segmentación Automática con Imágenes de Resonancia Magnética de Bajo Campo" para la Univerdad Comunera
+Repositorio del Trabajo final de grado "Comparación de Métodos de Segmentación Automática con Imágenes de Resonancia Magnética de Bajo Campo" realizado por el alumno Jose Daniel Canclini para la Univerdad Comunera
 
 Estructura de repositorio:
  - Codigo : Aca esta el codigo de fuente de los metodos utilizados
